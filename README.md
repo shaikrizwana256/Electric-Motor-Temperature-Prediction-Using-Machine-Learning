@@ -6,4 +6,4 @@ Speed
 Torque
 Ambient temperature
 The system helps operators monitor motor health and increases reliability and safety.
-This is the document of the project:https://docs.google.com/document/d/1Z4GyN_ffQUBo4WvpCwKnHD-9oFmpv8yK/edit?usp=drive_link&ouid=100555176318500176003&rtpof=true&sd=true
+This is the document of the project:https://drive.google.com/file/d/1njXINLCZxAwDqKuUuYSLJt_7Hbs70CcE/view?usp=drive_link
